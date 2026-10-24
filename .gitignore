@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.log
+.tooling/
+.venv/
+__pycache__/
+backups/
+mentesek/

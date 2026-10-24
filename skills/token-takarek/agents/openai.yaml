@@ -1,0 +1,6 @@
+interface:
+  display_name: "Tokentakarékos munkavégzés"
+  short_description: "Kevesebb ismétlés, változatlan követelményekkel"
+  default_prompt: "Használd a $token-takarek skillt a feladat teljes, ellenőrzött elvégzéséhez."
+policy:
+  allow_implicit_invocation: true

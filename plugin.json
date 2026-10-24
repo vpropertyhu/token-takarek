@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "token-takarek",
+  "version": "1.0.0",
+  "description": "Kevesebb felesleges kontextus és ismételt modellmunka, a kért minőség és ellenőrzések megőrzésével."
+}
